@@ -1,2 +1,2 @@
 # test-learn
-First repo for and EdX course
+First repo for an EdX course
